@@ -5,4 +5,5 @@ Goto Start
 :Start
 
 Echo. Hello World!
-Stop
+Pause
+
