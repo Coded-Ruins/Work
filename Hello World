@@ -1,0 +1,8 @@
+@Echo off
+
+Goto Start
+
+:Start
+
+Echo. Hello World!
+Stop
